@@ -1,0 +1,5 @@
+config.php  # Contains RDS password and endpoint!
+*.pem
+*.key
+.env
+*.log
